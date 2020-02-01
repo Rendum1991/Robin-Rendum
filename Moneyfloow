@@ -1,2 +1,0 @@
-$ cd libra
-$ cargo run -p libra-swarm -- -s -n 4
